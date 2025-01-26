@@ -1,3 +1,3 @@
 # JSONserverの起動
 
-$ npm run json-server
+```$ npm run json-server```
